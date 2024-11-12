@@ -1,0 +1,5 @@
+cairosvg
+py-cord
+playsound
+pydub
+Requests
